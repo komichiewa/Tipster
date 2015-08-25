@@ -13,3 +13,4 @@ Completed user stories:<br>
 
 Walkthrough of all user stories:
 
+![GIF of walkthrough](https://www.dropbox.com/s/juu7zn7249enrhi/tipster_demo.gif?dl=0)
