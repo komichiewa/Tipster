@@ -11,6 +11,7 @@ Completed user stories:<br>
 -Optional: Field box fades in upon view load<br>
 -Optional: Bill field box and text changes color upon editing<br>
 
-Walkthrough of all user stories:
+Walkthrough of all user stories:<br><br>
+![](http://i.imgur.com/c2G0LTp.gif)<br><br>
 
-![GIF of walkthrough](https://www.dropbox.com/s/juu7zn7249enrhi/tipster_demo.gif?dl=0)
+GIF created with [LiceCap](http://www.cockos.com/licecap/)
